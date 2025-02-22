@@ -1,0 +1,1 @@
+print("print is a funtion in python that will print inside the bracket");
